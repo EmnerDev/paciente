@@ -1,0 +1,76 @@
+.details{
+    cursor: pointer;
+}
+.container{
+    margin-top: 3%;
+}
+.forma{
+  margin-top: 4%;
+  margin-right: 0;
+}
+.icon{
+  position: absolute;
+  left: 42%;
+}
+.forma2{
+  margin-top: 4%;
+  margin-right: 0;
+}
+.icon2{
+  position: absolute;
+  left: 91%;
+}
+.formatemperatura{
+  margin-top: 4%;
+  margin-right: 0;
+}
+.icontemperatura{
+  position: absolute;
+  left: 26%;
+}
+.formafcardiaca{
+  margin-top: 4%;
+  margin-right: 0;
+}
+.iconfcardiaca{
+  position: absolute;
+  left: 59%;
+}
+.formapeso{
+  margin-top: 4%;
+  margin-right: 0;
+}
+.iconpeso{
+  position: absolute;
+  left: 91%;
+}
+.formatalla{
+  margin-top: 4%;
+  margin-right: 0;
+}
+.icontalla{
+  position: absolute;
+  left: 18%;
+}
+.formaparterial{
+  margin-top: 4%;
+  margin-right: 0;
+}
+.iconparterial{
+  position: absolute;
+  left: 42%;
+}
+.formasaturacion{
+  margin-top: 4%;
+  margin-right: 0;
+}
+.iconsaturacion{
+  position: absolute;
+  left: 67%;
+}
+
+.pointer-none{
+    cursor: not-allowed;
+    pointer-events: none;
+    background-color: rgb(229, 229, 229);
+}
